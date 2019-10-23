@@ -1,5 +1,5 @@
 n= int(input())
 if n%2==0:
- print("prime")
+ print("even")
 else :
- print("not a prime")
+ print("odd")
